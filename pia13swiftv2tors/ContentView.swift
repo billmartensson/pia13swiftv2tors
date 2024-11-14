@@ -22,7 +22,7 @@ struct ContentView: View {
     }
     
     func nyfunktion() {
-        // Den är nu bra
+        // Den är nu ännu bättre
     }
 }
 
