@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// APP PUBLICERAD
+
 struct ContentView: View {
     var body: some View {
         VStack {
