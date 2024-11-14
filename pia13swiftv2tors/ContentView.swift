@@ -8,6 +8,7 @@
 import SwiftUI
 
 // APP PUBLICERAD
+// Fixa buggfix i publicerad version
 
 struct ContentView: View {
     var body: some View {
